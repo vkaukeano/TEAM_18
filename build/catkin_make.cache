@@ -1,0 +1,2 @@
+apriltags2_ros/apriltags2:apriltags2_ros/apriltags2_ros
+-DCMAKE_BUILD_TYPE=Release -DCATKIN_DEVEL_PREFIX=/home/team18/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/team18/catkin_ws/install -G Unix Makefiles
